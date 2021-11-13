@@ -8,7 +8,7 @@ Not everything in this specification is in line with the current state of the ar
 described how it should be. For the latest information, see
 See documentation here: https://github.com/metarhia/Docs
 
-Languages: [English] (README.md) | [Russian] (README.ru.md)
+Languages: [English](README.md) | [Russian](README.ru.md)
 
 - [Command Center](doc/Management.md)
 - [Containers with business logic](doc/Node.md)

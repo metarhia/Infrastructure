@@ -8,11 +8,9 @@ From hot to cold types of the data
 4. File storage
 5. Analytics
 
-
 ## Local RAM
 
 Should be calculatad upon start and constantly used by all processes running on the same machine for super hot parts of data.
-
 
 ## Redis cache
 
@@ -26,7 +24,6 @@ There are multiple self claimed alternatives to good old Postgres, including mul
 ## File storage
 
 Cold data storage using the most effective file management systems, such as ZFS (?)
-
 
 ## Analitycs
 

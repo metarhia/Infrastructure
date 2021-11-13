@@ -1,4 +1,5 @@
-# Metarhia Command Panel 
+# Metarhia Command Panel
+
 ## Settings and controls of distributed Metarhia infrastructure
 
 *I suggest all involwed in the development of this model install and review [N|Solid](https://nodesource.com/products/nsolid) panel to review and learn functionality. To prevent reinwentment of a bycicle and to learn good solutions, in case there are amy.*
@@ -20,7 +21,6 @@ There should be several dublicates of such a center, in case of emergency. This 
 7. Logging
 8. Sheduling
 9. GUI
-
 
 ## Authentication
 
